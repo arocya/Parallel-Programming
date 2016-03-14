@@ -4,7 +4,7 @@
  Author      : Arion Almond
  Version     :
  Copyright   : Open Source
- Description : Hello World in C, Ansi-style
+ Description : This project dynamically allocates an array
  ============================================================================
  */
 
